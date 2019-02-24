@@ -1,0 +1,120 @@
+body {
+    font-size: 13px;
+    font-family: Arial;
+}
+
+.header-top {
+    background-color: #f9f6f7;
+    padding: 10px 0;
+}
+
+.email {
+    color: #cccccc;
+    font-size: 13px;
+}
+
+.email i {
+    color: #e67c8e;
+    padding: 5px;
+}
+
+.phone {
+    color: #cccccc;
+}
+
+.phone i {
+    color: #e67c8e;
+    padding: 5px;
+}
+
+.menu-fast {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.menu-fast li {
+    display: inline-block;
+}
+
+.menu-fast li a {
+    padding: 0 10px;
+    border-left: 1px solid #cccccc;
+    color: #cccccc ;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+.menu-fast li a i {
+    margin-right: 5px;
+}
+
+/*------------------------------header-middle*/
+.header-middle {
+    /*padding: 50px 0;*/
+    padding-top: 30px;
+}
+
+
+.logo img {
+    max-width: 100%;
+}
+
+.dichvu_mn{
+
+}
+
+.dichvu_mn li {
+    display: inline-block;
+    margin-right: 30px;
+    padding-left: 60px;
+    color: #8c8c8c;
+}
+.dichvu_mn li p {
+    text-transform: uppercase;
+}
+
+.dichvu_mn li.doi_tra {
+    background: url('../images/doi_tra.png') no-repeat left center;
+}
+.dichvu_mn li.van_chuyen {
+    background: url('../images/van_chuyen.png') no-repeat left center;
+}
+.dichvu_mn li.tu_van_online {
+    background: url('../images/tu_van_online.png') no-repeat left center;
+}
+
+.container ul {
+    list-style: none;
+    padding-left: 0px;
+
+}
+
+.container ul.menu-home {
+    display: inline-flex;
+}
+
+.container ul.menu-home li{
+
+    margin-top: 8px;
+    margin-right: 20px;
+}
+
+.container ul.menu-home li.active a{
+    color: #e67c8e;
+
+}
+
+.container ul.menu-home li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #333333;
+    font-weight: 600;
+}
+
+.search-input {
+    font-size: 12px;
+}
