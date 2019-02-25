@@ -375,6 +375,7 @@ footer .ho-tro-khach-hang h5 {
 }
 
 .phuong-thuc-thanh-toan {
+    float: right;
     padding-top: 25px;
     padding-bottom: 20px;
 }

@@ -11,20 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mau1/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
+            <state relative-caret-position="74">
+              <caret line="377" column="17" selection-start-line="377" selection-start-column="17" selection-end-line="377" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mau1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="602" column="96" selection-start-line="602" selection-start-column="96" selection-end-line="602" selection-end-column="96" />
+            <state relative-caret-position="468">
+              <caret line="605" column="18" lean-forward="true" selection-start-line="603" selection-start-column="7" selection-end-line="605" selection-end-column="18" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -66,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Mau1/index.html" />
         <option value="$PROJECT_DIR$/Mau1/css/style.css" />
+        <option value="$PROJECT_DIR$/Mau1/index.html" />
       </list>
     </option>
   </component>
@@ -174,12 +174,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550991840091</updated>
       <workItem from="1550991841638" duration="22576000" />
-      <workItem from="1551055853593" duration="17506000" />
+      <workItem from="1551055853593" duration="18301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40082000" />
+    <option name="totallyTimeSpent" value="40877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="750" extended-state="6" />
@@ -278,10 +278,17 @@
     <entry file="file://$PROJECT_DIR$/Mau1/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mau1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="377" column="17" selection-start-line="377" selection-start-column="17" selection-end-line="377" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Mau1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="602" column="96" selection-start-line="602" selection-start-column="96" selection-end-line="602" selection-end-column="96" />
+        <state relative-caret-position="468">
+          <caret line="605" column="18" lean-forward="true" selection-start-line="603" selection-start-column="7" selection-end-line="605" selection-end-column="18" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -303,13 +310,6 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
             <element signature="e#23649#23655#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mau1/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
         </state>
       </provider>
     </entry>
